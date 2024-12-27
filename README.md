@@ -18,12 +18,8 @@ Hi, I'm **Moses Abraham Roy**, a passionate MERN Stack Developer with a knack fo
 - **Databases:** MongoDB, PostgreSQL, MySQL, PrismaORM  
 - **Tools & Platforms:** Git, Vercel, Netlify, Canva  
 
-🌐 **Socials:**  
-- [Instagram](https://instagram.com/yourhandle)  
-- [LinkedIn](https://linkedin.com/in/yourprofile)  
-
-📊 **GitHub Stats:**  
-![Moses Abraham Roy's GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)  
+🌐 **Socials:**   
+- [LinkedIn](https://www.linkedin.com/in/mosesabrahamroy)   
 
 ✍️ **Random Dev Quote:**  
 _"Code is like humor. When you have to explain it, it’s bad."_ - Cory House  
