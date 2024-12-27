@@ -22,4 +22,4 @@ Hi, I'm **Moses Abraham Roy**, a passionate MERN Stack Developer with a knack fo
 - [LinkedIn](https://www.linkedin.com/in/mosesabrahamroy)   
 
 ✍️ **Random Dev Quote:**  
-_"Code is like humor. When you have to explain it, it’s bad."_ - Cory House  
+_"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine
