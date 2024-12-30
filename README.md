@@ -19,8 +19,7 @@ Hi, I'm **Moses Abraham Roy M**, a passionate MERN Stack Developer with a knack 
 - **Tools & Platforms:** Git, Vercel, Netlify, Canva  
 
 ## 🌐 Socials  
-- [LinkedIn](https://www.linkedin.com/in/mosesabrahamroy)
-- [Email](mosesroy350@gmail.com )  
+- [LinkedIn](https://www.linkedin.com/in/mosesabrahamroy) 
 
 ## ✍️ Random Dev Quote  
 _"Programming isn’t about what you know; it’s about what you can figure out." – Chris Pine  
